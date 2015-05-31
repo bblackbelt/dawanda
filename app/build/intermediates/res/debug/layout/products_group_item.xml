@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:padding="5dp"
+        android:id="@+id/product_icon"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/product_price"
+        android:layout_width="fill_parent"
+        android:layout_height="26dip"
+        android:layout_alignBaseline="@id/product_icon"
+        android:layout_alignBottom="@id/product_icon"
+        android:layout_toRightOf="@id/product_icon"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:textSize="14sp" />
+
+    <TextView
+        android:padding="5dp"
+        android:id="@+id/product_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/product_price"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/product_icon"
+        android:gravity="center_vertical"
+        android:textSize="16sp" />
+
+</RelativeLayout><!-- From: file:/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/src/main/res/layout/products_group_item.xml -->

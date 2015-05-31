@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-eca50a7bc632bef3c0adafd683c64d67efe50afc.jar" />
+    </item>
+    <item
+        jar="/home/emanuele/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/pre-dexed/debug/gson-2.2.4-76276fdaab4fa6e5396462861e98e24e7139ae6e.jar" />
+    </item>
+    <item
+        jar="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/pre-dexed/debug/classes-bb71e583c508b37ced9e0b0ff0c960886f1e07c2.jar" />
+    </item>
+    <item
+        jar="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/pre-dexed/debug/classes-c36ad4f7add7e8ec0e343981f2508742fd8b569b.jar" />
+    </item>
+    <item
+        jar="/home/emanuele/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/emanuele/Develop/AndroidStudioProjects/DawandaClient/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-0f2ad968ce7823873f9f8e2a2fb6dce1b66a5d42.jar" />
+    </item>
+
+</items>

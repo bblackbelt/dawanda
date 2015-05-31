@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DawandaClient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="details">Details</string>
+    <string name="categories">Categories</string>
+    <string name="no_data_available">no data available</string>
+    <string name="error_downloading_image">error downloading the image</string>
+    <string name="click_me">Click me!</string>
+    <string name="country">country: %1$s</string>
+    <string name="shop_name">shop: %1$s</string>
+</resources>
